@@ -1,0 +1,318 @@
+Train | Epoch 0 | Loss: 1.8019 | Acc: 31.26%
+Val | Epoch 0 | Loss: 1.6393 | Acc: 39.62%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 39.62% at epoch 0
+Train | Epoch 1 | Loss: 1.5116 | Acc: 44.25%
+Val | Epoch 1 | Loss: 1.3147 | Acc: 51.67%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 51.67% at epoch 1
+Train | Epoch 2 | Loss: 1.2323 | Acc: 55.79%
+Val | Epoch 2 | Loss: 1.0845 | Acc: 61.55%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 61.55% at epoch 2
+Train | Epoch 3 | Loss: 1.1367 | Acc: 59.80%
+Val | Epoch 3 | Loss: 1.0761 | Acc: 60.98%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 4 | Loss: 1.0821 | Acc: 61.66%
+Val | Epoch 4 | Loss: 1.1531 | Acc: 58.94%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 5 | Loss: 1.0019 | Acc: 64.28%
+Val | Epoch 5 | Loss: 0.9551 | Acc: 66.28%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 66.28% at epoch 5
+Train | Epoch 6 | Loss: 0.9213 | Acc: 67.46%
+Val | Epoch 6 | Loss: 0.9306 | Acc: 67.75%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 67.75% at epoch 6
+Train | Epoch 7 | Loss: 0.8806 | Acc: 68.90%
+Val | Epoch 7 | Loss: 0.8548 | Acc: 69.73%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 69.73% at epoch 7
+Train | Epoch 8 | Loss: 0.8354 | Acc: 70.44%
+Val | Epoch 8 | Loss: 0.8253 | Acc: 71.07%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 71.07% at epoch 8
+Train | Epoch 9 | Loss: 0.7978 | Acc: 71.88%
+Val | Epoch 9 | Loss: 0.7701 | Acc: 72.81%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 72.81% at epoch 9
+Train | Epoch 10 | Loss: 0.7668 | Acc: 72.81%
+Val | Epoch 10 | Loss: 0.7439 | Acc: 74.10%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 74.10% at epoch 10
+Train | Epoch 11 | Loss: 0.7351 | Acc: 74.38%
+Val | Epoch 11 | Loss: 0.7018 | Acc: 75.11%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 75.11% at epoch 11
+Train | Epoch 12 | Loss: 0.7132 | Acc: 74.89%
+Val | Epoch 12 | Loss: 0.7005 | Acc: 75.35%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 75.35% at epoch 12
+Train | Epoch 13 | Loss: 0.6723 | Acc: 76.62%
+Val | Epoch 13 | Loss: 0.6531 | Acc: 77.41%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 77.41% at epoch 13
+Train | Epoch 14 | Loss: 0.6432 | Acc: 77.50%
+Val | Epoch 14 | Loss: 0.5982 | Acc: 79.37%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 79.37% at epoch 14
+Train | Epoch 15 | Loss: 0.6155 | Acc: 78.61%
+Val | Epoch 15 | Loss: 0.5842 | Acc: 79.49%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 79.49% at epoch 15
+Train | Epoch 16 | Loss: 0.5960 | Acc: 79.09%
+Val | Epoch 16 | Loss: 0.5744 | Acc: 79.76%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 79.76% at epoch 16
+Train | Epoch 17 | Loss: 0.5738 | Acc: 80.04%
+Val | Epoch 17 | Loss: 0.5466 | Acc: 81.30%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 81.30% at epoch 17
+Train | Epoch 18 | Loss: 0.5471 | Acc: 80.81%
+Val | Epoch 18 | Loss: 0.5552 | Acc: 80.73%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 19 | Loss: 0.5275 | Acc: 81.50%
+Val | Epoch 19 | Loss: 0.5594 | Acc: 80.38%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 20 | Loss: 0.5128 | Acc: 82.11%
+Val | Epoch 20 | Loss: 0.5171 | Acc: 81.73%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 81.73% at epoch 20
+Train | Epoch 21 | Loss: 0.4938 | Acc: 82.73%
+Val | Epoch 21 | Loss: 0.4827 | Acc: 83.15%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 83.15% at epoch 21
+Train | Epoch 22 | Loss: 0.4756 | Acc: 83.34%
+Val | Epoch 22 | Loss: 0.4859 | Acc: 83.09%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 23 | Loss: 0.4600 | Acc: 83.95%
+Val | Epoch 23 | Loss: 0.4672 | Acc: 83.76%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 83.76% at epoch 23
+Train | Epoch 24 | Loss: 0.4419 | Acc: 84.59%
+Val | Epoch 24 | Loss: 0.4703 | Acc: 83.67%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 25 | Loss: 0.4258 | Acc: 85.19%
+Val | Epoch 25 | Loss: 0.4556 | Acc: 84.58%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 84.58% at epoch 25
+Train | Epoch 26 | Loss: 0.4118 | Acc: 85.58%
+Val | Epoch 26 | Loss: 0.4278 | Acc: 85.24%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 85.24% at epoch 26
+Train | Epoch 27 | Loss: 0.3932 | Acc: 86.27%
+Val | Epoch 27 | Loss: 0.4211 | Acc: 85.45%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 85.45% at epoch 27
+Train | Epoch 28 | Loss: 0.3828 | Acc: 86.57%
+Val | Epoch 28 | Loss: 0.4251 | Acc: 85.39%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 29 | Loss: 0.3687 | Acc: 87.06%
+Val | Epoch 29 | Loss: 0.4127 | Acc: 85.95%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 85.95% at epoch 29
+Train | Epoch 30 | Loss: 0.3575 | Acc: 87.61%
+Val | Epoch 30 | Loss: 0.3994 | Acc: 86.38%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 86.38% at epoch 30
+Train | Epoch 31 | Loss: 0.3444 | Acc: 87.93%
+Val | Epoch 31 | Loss: 0.3937 | Acc: 86.91%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 86.91% at epoch 31
+Train | Epoch 32 | Loss: 0.3330 | Acc: 88.40%
+Val | Epoch 32 | Loss: 0.3882 | Acc: 86.62%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 33 | Loss: 0.3128 | Acc: 89.10%
+Val | Epoch 33 | Loss: 0.3730 | Acc: 87.68%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 87.68% at epoch 33
+Train | Epoch 34 | Loss: 0.3065 | Acc: 89.07%
+Val | Epoch 34 | Loss: 0.3667 | Acc: 87.91%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 87.91% at epoch 34
+Train | Epoch 35 | Loss: 0.2927 | Acc: 89.77%
+Val | Epoch 35 | Loss: 0.3577 | Acc: 87.73%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 36 | Loss: 0.2826 | Acc: 90.03%
+Val | Epoch 36 | Loss: 0.3457 | Acc: 88.54%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 88.54% at epoch 36
+Train | Epoch 37 | Loss: 0.2683 | Acc: 90.48%
+Val | Epoch 37 | Loss: 0.3483 | Acc: 88.41%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 38 | Loss: 0.2617 | Acc: 90.59%
+Val | Epoch 38 | Loss: 0.3461 | Acc: 88.78%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 88.78% at epoch 38
+Train | Epoch 39 | Loss: 0.2482 | Acc: 91.27%
+Val | Epoch 39 | Loss: 0.3399 | Acc: 89.11%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.11% at epoch 39
+Train | Epoch 40 | Loss: 0.2400 | Acc: 91.44%
+Val | Epoch 40 | Loss: 0.3454 | Acc: 89.03%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 41 | Loss: 0.2296 | Acc: 91.93%
+Val | Epoch 41 | Loss: 0.3276 | Acc: 89.32%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.32% at epoch 41
+Train | Epoch 42 | Loss: 0.2146 | Acc: 92.50%
+Val | Epoch 42 | Loss: 0.3377 | Acc: 89.22%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 43 | Loss: 0.2090 | Acc: 92.62%
+Val | Epoch 43 | Loss: 0.3359 | Acc: 89.35%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.35% at epoch 43
+Train | Epoch 44 | Loss: 0.2019 | Acc: 92.74%
+Val | Epoch 44 | Loss: 0.3358 | Acc: 89.10%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 45 | Loss: 0.1904 | Acc: 93.35%
+Val | Epoch 45 | Loss: 0.3245 | Acc: 89.65%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.65% at epoch 45
+Train | Epoch 46 | Loss: 0.1833 | Acc: 93.53%
+Val | Epoch 46 | Loss: 0.3198 | Acc: 89.84%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.84% at epoch 46
+Train | Epoch 47 | Loss: 0.1696 | Acc: 93.92%
+Val | Epoch 47 | Loss: 0.3276 | Acc: 89.66%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 48 | Loss: 0.1610 | Acc: 94.36%
+Val | Epoch 48 | Loss: 0.3257 | Acc: 89.96%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 89.96% at epoch 48
+Train | Epoch 49 | Loss: 0.1526 | Acc: 94.56%
+Val | Epoch 49 | Loss: 0.3241 | Acc: 90.00%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 90.00% at epoch 49
+Train | Epoch 50 | Loss: 0.1456 | Acc: 94.75%
+Val | Epoch 50 | Loss: 0.3296 | Acc: 90.01%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 90.01% at epoch 50
+Train | Epoch 51 | Loss: 0.1403 | Acc: 95.09%
+Val | Epoch 51 | Loss: 0.3130 | Acc: 90.68%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 90.68% at epoch 51
+Train | Epoch 52 | Loss: 0.1349 | Acc: 95.19%
+Val | Epoch 52 | Loss: 0.3145 | Acc: 90.76%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 90.76% at epoch 52
+Train | Epoch 53 | Loss: 0.1306 | Acc: 95.32%
+Val | Epoch 53 | Loss: 0.3145 | Acc: 90.72%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 54 | Loss: 0.1232 | Acc: 95.67%
+Val | Epoch 54 | Loss: 0.3163 | Acc: 90.50%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 55 | Loss: 0.1158 | Acc: 95.92%
+Val | Epoch 55 | Loss: 0.3150 | Acc: 90.84%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 90.84% at epoch 55
+Train | Epoch 56 | Loss: 0.1103 | Acc: 96.11%
+Val | Epoch 56 | Loss: 0.3153 | Acc: 90.79%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 57 | Loss: 0.1074 | Acc: 96.18%
+Val | Epoch 57 | Loss: 0.3204 | Acc: 90.55%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 58 | Loss: 0.0981 | Acc: 96.69%
+Val | Epoch 58 | Loss: 0.3186 | Acc: 90.82%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 59 | Loss: 0.0962 | Acc: 96.61%
+Val | Epoch 59 | Loss: 0.3118 | Acc: 91.05%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.05% at epoch 59
+Train | Epoch 60 | Loss: 0.0919 | Acc: 96.75%
+Val | Epoch 60 | Loss: 0.3218 | Acc: 90.91%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 61 | Loss: 0.0888 | Acc: 96.84%
+Val | Epoch 61 | Loss: 0.3185 | Acc: 90.88%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 62 | Loss: 0.0833 | Acc: 97.10%
+Val | Epoch 62 | Loss: 0.3170 | Acc: 90.94%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 63 | Loss: 0.0801 | Acc: 97.25%
+Val | Epoch 63 | Loss: 0.3203 | Acc: 90.95%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 64 | Loss: 0.0788 | Acc: 97.27%
+Val | Epoch 64 | Loss: 0.3198 | Acc: 91.18%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.18% at epoch 64
+Train | Epoch 65 | Loss: 0.0782 | Acc: 97.31%
+Val | Epoch 65 | Loss: 0.3201 | Acc: 91.11%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 66 | Loss: 0.0766 | Acc: 97.36%
+Val | Epoch 66 | Loss: 0.3195 | Acc: 91.31%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.31% at epoch 66
+Train | Epoch 67 | Loss: 0.0755 | Acc: 97.46%
+Val | Epoch 67 | Loss: 0.3215 | Acc: 91.29%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 68 | Loss: 0.0721 | Acc: 97.51%
+Val | Epoch 68 | Loss: 0.3211 | Acc: 91.33%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.33% at epoch 68
+Train | Epoch 69 | Loss: 0.0686 | Acc: 97.67%
+Val | Epoch 69 | Loss: 0.3188 | Acc: 91.40%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.40% at epoch 69
+Train | Epoch 70 | Loss: 0.0714 | Acc: 97.50%
+Val | Epoch 70 | Loss: 0.3203 | Acc: 91.19%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 71 | Loss: 0.0679 | Acc: 97.69%
+Val | Epoch 71 | Loss: 0.3187 | Acc: 91.30%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 72 | Loss: 0.0673 | Acc: 97.71%
+Val | Epoch 72 | Loss: 0.3180 | Acc: 91.47%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/best.pt
+[Best] New best accuracy: 91.47% at epoch 72
+Train | Epoch 73 | Loss: 0.0699 | Acc: 97.62%
+Val | Epoch 73 | Loss: 0.3203 | Acc: 91.37%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Train | Epoch 74 | Loss: 0.0699 | Acc: 97.61%
+Val | Epoch 74 | Loss: 0.3192 | Acc: 91.33%
+[Checkpoint] Saved to /kaggle/working/fvit0_baseline_cifar10/latest.pt
+Training finished. Best Val Acc: 91.47%
