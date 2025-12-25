@@ -1,4 +1,4 @@
-# FasterViT Paper Implementation — EN4554 Project
+# FasterViT Paper Implementation 
 
 **Course:** EN4554 Project Selection  
 **Group:** Rebecca Fernando & Dinethra Rajapaksha  
